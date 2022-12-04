@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tuğba
 - 👀 I’m interested in Web and Mobile Pragramming
-- 🌱 I’m currently learning React and Javascript.
+- 🌱 I’m currently learning Angular and Javascript.
 - 📫 How to reach me ig:@ylcnkytbb tw:@ylcnkytbb
 
 <!---
